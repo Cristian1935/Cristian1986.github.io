@@ -1,0 +1,190 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Titillium+Web:wght@200&family=Yellowtail&display=swap');
+*{
+font-family: "Titillium Web";
+margin: 0;
+padding: 0;
+
+}
+
+
+}
+
+html{
+
+	scroll-behavior: smooth;
+}
+
+.foto{
+	
+	position: relative;
+}
+.inicio{
+background-image: url("imagenes/escritorio.jpg");	
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+
+.inicio {
+	
+margin: auto;
+	text-align: center;
+font-size: 1.6rem;
+color: #940253;
+font-size: bold;
+}
+
+
+
+header nav a{
+color: #ffffff;	
+font-family: Tillium;
+font-weight: bold;
+
+}
+/*.nav-bar: hover{
+box-shadow: 130px;
+}
+.info h1{
+	font-size: 3rem;
+	font-family: Yellowtail
+	color: #ffffff;
+}
+ */
+	
+
+
+
+.redes{
+	margin: 10px 0;
+}
+.redes a {
+	
+	color: #940253;
+
+}
+.titulo-seccion{
+	font-family:Yellowtail;
+	font-size: 2rem;
+	text-align: center;
+}
+h3{
+	font-weight: bold;
+    font-size: 2rem;
+    font-size: 30px;
+text-align: center;
+}
+.titulo-detalle{
+	font-weight: bold;
+}
+.especial{
+font-weight: bold;
+text-align: center;
+color: #940253;
+margin-top: 15px;
+}
+.fila{
+	text-align: center;
+}
+i {
+	color: #940253;
+
+}
+
+
+ p {
+font-weight: bold;
+}
+
+.contenido-seccion p{
+max-width: 800px;
+margin: auto;
+}
+.fila.col{
+width: 30%;
+
+}
+.col i {
+	color: #940253;
+display: inline-block;
+
+width: 40px;
+height: 40px;
+border: 2px solid #940253;
+line-height: 40px;
+border-radius: 50%;
+}
+.col span{
+	display: block;
+font-weight: bold;
+margin: 8px;
+text-align: center;
+}
+
+/*seccion habilidades */
+.habilidades{
+	
+padding: 80px 0 100px 0 ;
+text-align: center;
+background: linear-gradient(#fefefe,#888888);
+
+ 
+}
+
+ header .nav-bar{
+	
+	border-radius: 50px;
+
+position: fixed;
+cursor: pointer;
+transition: .3s;
+
+}
+header.nav-bar:hover{
+	box-shadow: 0 0 35px #ffffff;
+}
+
+.habilidades .contenido-seccion.fila.col{
+width: 47%;
+text-align: center;
+}
+
+}
+.col .cont-barra{
+
+	display: flex;
+	align-items: center;
+}
+
+/*seccion resumen*/
+.lista-laboral{
+	font-weight: bold;
+}
+li{
+font-weight: bold;
+}
+.titulo-educacion{
+	color: #940253;
+}
+.titulo-laboral{
+	color: #940253;
+}
+/*contacto*/
+  h2{
+margin: 40px;
+font-weight: bold;
+ text-align: center;
+ }
+
+ 
+ 
+}
+.buton button {
+	background-color: #940253;
+
+}
+
+
+
+
